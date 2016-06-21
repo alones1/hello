@@ -761,7 +761,7 @@
 /* Footer Bar */
 #footer 
 {
-        background:             rgb(3, 0, 7) !important;
+        background:             green;
         /*background:             linear-gradient(0deg,#13002f 0,#002149 169%,#111317 100%) !important;*/
 }
 
