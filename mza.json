@@ -1,6 +1,7 @@
 {
    "room": "Muzikos Namai!",
    "author": "aPacer / -GhostMan-",
+   "css": null,
    "rules": {
         "allowAutorespond": true,
         "allowAutowoot": true,
