@@ -1,7 +1,7 @@
 {
    "room": "Muzikos Namai!",
    "author": "aPacer / -GhostMan-",
-   "css": null,
+   "css": "https://raw.githubusercontent.com/alones1/hello/master/styles",
    "rules": {
         "allowAutorespond": true,
         "allowAutowoot": true,
