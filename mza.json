@@ -1,7 +1,7 @@
 {
    "room": "Muzikos Namai!",
-   "author": "aPacer / -GhostMan-",
-    "css":                      "https://cdn.bssecure.net/nc-themes/plug-themes/nc331-theme.css",
+   "author": "aPacer / -GhostMan- | css // NCC",
+   "css": "https://cdn.bssecure.net/nc-themes/plug-themes/nc331-theme.css",
    "rules": {
         "allowAutorespond": true,
         "allowAutowoot": true,
@@ -26,7 +26,7 @@
         "user": "#618b94"
     },
     "images": {
-        "background": "https://i.imgur.com/HG8mqaM.png",
+        "background": "https://i.imgur.com/0GmX6XG.jpg",
         "host": null,
         "cohost": null,
         "manager": null,
