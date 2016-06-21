@@ -1,7 +1,7 @@
 {
    "room": "Muzikos Namai!",
    "author": "aPacer / -GhostMan-",
-   "css": "https://raw.githubusercontent.com/alones1/hello/master/styles.css",
+    "css":                      "https://cdn.bssecure.net/nc-themes/plug-themes/nc331-theme.css",
    "rules": {
         "allowAutorespond": true,
         "allowAutowoot": true,
