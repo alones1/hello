@@ -1,6 +1,6 @@
 {
    "room": "Muzikos Namai!",
-   "author": "aPacer / -GhostMan- | css // NCC",
+   "author": "Theme created by -GhostMan- | css by NCC 331",
    "css": "https://cdn.bssecure.net/nc-themes/plug-themes/nc331-theme.css",
    "rules": {
         "allowAutorespond": true,
@@ -26,7 +26,7 @@
         "user": "#618b94"
     },
     "images": {
-        "background": "https://i.imgur.com/G0kADjL.jpg",
+        "background": "https://i.imgur.com/fLqg0c8.jpg",
         "host": null,
         "cohost": null,
         "manager": null,
