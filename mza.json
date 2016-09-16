@@ -1,6 +1,6 @@
 {
-   "room": "๖Muzikos Širdis | Muzikos Namai!",
-   "author": "Theme created by -GhostMan- | css by NCC 331",
+   "room": "→ Lietuvių Kambariukas ←",
+   "author": "Theme created by -GhostMan-",
    "css": "https:\/\/cdn.radiant.dj\/rcs\/rs_room.css ",
    "rules": {
         "allowAutorespond": true,
@@ -26,7 +26,7 @@
         "user": "#618b94"
     },
     "images": {
-        "background": "https://i.imgur.com/yHddhjF.jpg",
+        "background": "https://i.imgur.com/rsCWV7G.jpg",
         "host": null,
         "cohost": null,
         "manager": null,
