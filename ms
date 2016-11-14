@@ -26,7 +26,7 @@
         "user": "#618b94"
     },
     "images": {
-        "background": "https://res.cloudinary.com/hhberclba/image/upload/v1459085713/zmvshrfcrrqs2tsyc2c2.jpg",
+        "background": "https://i.imgur.com/M0CeHah.png",
         "host": null,
         "cohost": null,
         "manager": null,
