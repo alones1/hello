@@ -26,7 +26,7 @@
         "user": "#618b94"
     },
     "images": {
-        "background": "https://i.imgur.com/M0CeHah.png",
+        "background": null,
         "host": null,
         "cohost": null,
         "manager": null,
