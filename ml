@@ -1,6 +1,7 @@
 {
    "room": "Music is Life",
    "author": "Temą kūrė Tomas L.",
+      "css": "https:\/\/cdn.radiant.dj\/rcs\/rs_room.css ",
    "rules": {
         "allowAutorespond": true,
         "allowAutowoot": true,
