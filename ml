@@ -15,15 +15,15 @@
      "ccc": {
         "admin": null,
         "ambassador": null,
-        "host": null,
-        "cohost": null,
-        "manager": null,
-        "bouncer": null,
-        "rdj": null,
+        "host": "#006eff",
+        "cohost": "#006eff",
+        "manager": "#00c7ff",
+        "bouncer": "#89efff",
+        "rdj": "#7dceb0",
         "subscriber": null,
         "silversubscriber": null,
         "friend": null,
-        "user": null
+        "user": "#618b94"
     },
     "images": {
         "background": "https://cdn.radiant.dj/rcs/bg/2k14tc.jpg",
