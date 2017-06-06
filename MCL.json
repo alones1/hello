@@ -2,7 +2,6 @@
 {
    "room": "Muzika cia Lietuva",
    "author": "Tomas L.",
-   "css": "https://cdn.radiant.dj/rcs/rs_room.css",
    "rules": {
         "allowAutorespond": true,
         "allowAutowoot": true,
@@ -14,7 +13,7 @@
         "forceSmartVote": false
     },
     "images": {
-        "background": "https://cdn.radiant.dj/rcs/bg/rmOld1.jpg"
+        "background": "https://cdn.radiant.dj/rcs/bg/rmOld1.jpg",
     },
   "ccc": {
     "admin": null,
@@ -27,17 +26,7 @@
     "subscriber": null,
     "silversubscriber": null,
     "friend": "#905BA1",
-    "user": null
-  },
-    "emotes": {
-      "nespank": "https://akphoto2.ask.fm/162/541/970/-399996993-1sefklp-8f9cm6qr3qs5se5/original/avatar.jpg",
-      "zvanokas": "https://akphoto3.ask.fm/598/869/611/-439996975-1sjn4om-3bf2g3komjfqt0p/original/avatar.jpg",
-      "geraskelei": "http://akphoto2.ask.fm/311/446/590/-229996993-1somj71-j3mcnef0lcd7a45/original/geraskelei.jpg",
-      "nemeluok": "http://cdn.meme.am/instances/500x/53414429.jpg",
-      "ane": "https://akphoto4.ask.fm/225/493/124/1280003020-1rhn2je-1im96koe0mcp5gk/original/10007518_635992639771496_418197443_n.jpg",
-      "jezusmarija": "http://akphoto3.ask.fm/466/837/972/-469996999-1si8ldq-9r3d9bo9fpd6cap/original/avatar.jpg",
-      "geraskelei2": "https://akphoto4.ask.fm/377/201/488/1280003001-1rraq2i-93mgn00pmh2f00/original/skeleigera.jpg",
-      "teip": "https://i.ytimg.com/vi/uFyLd8ocPWc/hqdefault.jpg"     
+    "user": null  
        
     }
    
