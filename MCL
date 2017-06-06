@@ -1,37 +1,39 @@
 {
-   "room": "Muzika čia Lietuva!",
-   "author": "Temą kūrė Tomas L.",
-   "css": "https:\/\/cdn.radiant.dj\/rcs\/rs_room.css ",
-   "rules": {
-        "allowAutorespond": true,
-        "allowAutowoot": true,
-        "allowAutojoin": true,
-        "allowAutograb": true,
-        "allowSmartVote": true,
-        "allowEmotes": true,
-        "allowShowingMehs": true,
-        "forceSmartVote": false
-    },
-     "ccc": {
-        "admin": null,
-        "ambassador": null,
-        "host": "#006eff",
-        "cohost": "#006eff",
-        "manager": "#00c7ff",
-        "bouncer": "#89efff",
-        "rdj": "#7dceb0",
-        "subscriber": null,
-        "silversubscriber": null,
-        "friend": null,
-        "user": "#618b94"
-    },
-    "images": {
-        "background": "https://cdn.radiant.dj/rcs/bg/rmOld1.jpg",
-        "host": null,
-        "cohost": null,
-        "manager": null,
-        "bouncer": null,
-        "rdj": null
-   }
-   
-}
+  "room": "Muzika čia Lietuva!",
+  "author": "Tomas L.",
+  "css": "https:\/\/cdn.radiant.dj\/rcs\/rs_room.css",
+  "rules": {
+    "allowAutorespond": true,
+    "allowAutowoot": true,
+    "allowAutojoin": false,
+    "allowAutograb": true,
+    "allowSmartVote": true,
+    "allowEmotes": true,
+    "allowShowingMehs": true,
+    "forceSmartVote": false
+  },
+  "ccc": {
+    "admin": null,
+    "ambassador": null,
+    "host": "#2ac0fb",
+    "cohost": "#2ac0fb",
+    "manager": "#0061B7",
+    "bouncer": "#00CBBD",
+    "rdj": "#14AA00",
+    "subscriber": null,
+    "silversubscriber": null,
+    "friend": "#905BA1",
+    "user": null
+  },
+  "images": {
+    "background": "https://cdn.radiant.dj/rcs/bg/rmOld1.jpg",
+    "playback": null,
+    "admin": null,
+    "ambassador": null,
+    "host": null,
+    "cohost": null,
+    "manager": null,
+    "bouncer": null,
+    "rdj": null,
+
+  }
