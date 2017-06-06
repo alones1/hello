@@ -1,8 +1,8 @@
 
 {
-   "room": "Muzika čia Lietuva",
+   "room": "Muzika cia Lietuva",
    "author": "Tomas L.",
-   "css": "https:\/\/cdn.radiant.dj\/rcs\/rs_room.css",
+   "css": "https://cdn.radiant.dj/rcs/rs_room.css",
    "rules": {
         "allowAutorespond": true,
         "allowAutowoot": true,
