@@ -2,16 +2,6 @@
 {
    "room": "Muzika cia Lietuva",
    "author": "Tomas L.",
-   "rules": {
-        "allowAutorespond": true,
-        "allowAutowoot": true,
-        "allowAutojoin": true,
-        "allowAutograb": true,
-        "allowSmartVote": true,
-        "allowEmotes": true,
-        "allowShowingMehs": true,
-        "forceSmartVote": false
-    },
     "images": {
         "background": "https://cdn.radiant.dj/rcs/bg/rmOld1.jpg",
     },
