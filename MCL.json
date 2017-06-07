@@ -4,19 +4,7 @@
    "author": "Tomas L.",
     "images": {
         "background": "https://cdn.radiant.dj/rcs/bg/rmOld1.jpg",
-    },
-  "ccc": {
-    "admin": null,
-    "ambassador": null,
-    "host": "#2ac0fb",
-    "cohost": "#2ac0fb",
-    "manager": "#0061B7",
-    "bouncer": "#00CBBD",
-    "rdj": "#14AA00",
-    "subscriber": null,
-    "silversubscriber": null,
-    "friend": "#905BA1",
-    "user": null  
+ 
        
     }
    
