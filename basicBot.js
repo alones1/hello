@@ -241,27 +241,27 @@
         return str;
     };
 
-    var botCreator = 'Yemasthui';
-    var botMaintainer = 'Benzi'
-    var botCreatorIDs = ['3851534', '4105209'];
+    var botCreator = 'Tomas L.';
+    var botMaintainer = 'Tomas L.'
+    var botCreatorIDs = ['3824007'];
 
     var basicBot = {
         version: '2.10.0',
         status: false,
-        name: 'basicBot',
+        name: 'Muzikos botas',
         loggedInID: null,
-        scriptLink: 'https://rawgit.com/basicBot/source/master/basicBot.js',
+        scriptLink: 'https://raw.githubusercontent.com/alones1/hello/master/basicBot.js',
         cmdLink: 'http://git.io/245Ppg',
-        chatLink: 'https://rawgit.com/basicBot/source/master/lang/en.json',
+        chatLink: 'https://raw.githubusercontent.com/alones1/hello/master/lt.json',
         chat: null,
         loadChat: loadChat,
         retrieveSettings: retrieveSettings,
         retrieveFromStorage: retrieveFromStorage,
         settings: {
-            botName: 'basicBot',
-            language: 'english',
-            chatLink: 'https://rawgit.com/basicBot/source/master/lang/en.json',
-            scriptLink: 'https://rawgit.com/basicBot/source/master/basicBot.js',
+            botName: 'Muzikos botas',
+            language: 'lithuania',
+            chatLink: 'https://raw.githubusercontent.com/alones1/hello/master/lt.json',
+            scriptLink: 'https://raw.githubusercontent.com/alones1/hello/master/basicBot.js',
             roomLock: false, // Requires an extension to re-load the script
             startupCap: 1, // 1-200
             startupVolume: 0, // 0-100
